@@ -1,0 +1,60 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.start {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  color: white;
+  background: black;
+  font-size: large;
+}
+#startimg {
+  width: min-content;
+}
+#hrr {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.view {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: orangered;
+  text-align: center;
+  color: white;
+}
+.below {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: white;
+  color: black;
+  text-align: center;
+}
+#table {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+#nexgen {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  background: orangered;
+  color: white;
+}
+#dia {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+#foot {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
